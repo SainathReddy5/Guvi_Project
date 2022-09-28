@@ -1,4 +1,4 @@
-# This is final project for Master Data Science course from guvi
+# This is final project for Master Data Science course from Guvi
 
 ## Directory Structure
 
