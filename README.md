@@ -9,7 +9,7 @@
 ## How to run the code
 1. Clone/download the repository
 2. Install the requirements present in the requirements.txt using pip install -r requirements.txt
-3. Run the app by opening file location in command prompt and enter python app.py 
+3. Run the app by opening file location in command prompt and enter "python app.py" 
 
 ## How to use the web app
 1. click on this link https://chennai-house-price-predictor1.herokuapp.com/
